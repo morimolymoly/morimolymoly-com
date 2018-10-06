@@ -3,15 +3,37 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
+  word-break: break-all;
 }
+
+.trapmafia_img {
+  width: 25vw;
+}
+
+.hypervillage_img {
+  width: 15vw;
+}
+
+.gekikawa {
+  width: 20vw;
+}
+
+.team {
+  background-color:#dcdcdc;
+  margin: 2vh;
+  border : 1vh solid #dcdcdc ;
+}
+
 .glitchmoly {
   font-family: 'Bowlby One', cursive;
   color: black;
   background: white;
-  font-size: 6.5vh;
+  font-size: 8vw;
   width: 100vw;
   height: 10vh;
   text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
 }
 @keyframes noise-anim{
   $steps:20;
