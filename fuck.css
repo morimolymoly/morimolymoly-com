@@ -18,16 +18,24 @@ body {
   width: 20vw;
 }
 
-.team {
-  background-color:#dcdcdc;
+.box {
+  background-color:#f7f4f4;
   margin: 2vh;
-  border : 1vh solid #dcdcdc ;
+  border : 1vh solid #f7f4f4;
+}
+
+.header {
+  background-color:#ffffff;
+  margin: 2vh;
+  border: 1vh solid #ffffff;
+  background-image: url('./imgs/aine.jpg');
+  background-size:80px 80px;
 }
 
 .glitchmoly {
   font-family: 'Bowlby One', cursive;
   color: black;
-  background: white;
+  background: #f7f4f4;
   font-size: 8vw;
   width: 100vw;
   text-align: center;
