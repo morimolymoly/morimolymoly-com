@@ -24,20 +24,22 @@ body {
   border : 1vh solid #f7f4f4;
 }
 
+.box-header {
+  background: rgb(255, 148, 202);
+  color: white;
+}
+
 .header {
   background-color:#ffffff;
-  margin: 2vh;
-  border: 1vh solid #ffffff;
   background-image: url('./imgs/aine.jpg');
   background-size:80px 80px;
 }
 
 .glitchmoly {
   font-family: 'Bowlby One', cursive;
-  color: black;
-  background: #f7f4f4;
+  color: white;
+  background: rgb(255, 148, 202);
   font-size: 8vw;
-  width: 100vw;
   text-align: center;
   white-space: nowrap;
   overflow: hidden;
