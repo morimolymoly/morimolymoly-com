@@ -23,6 +23,12 @@ body {
   margin: 0 0 5vh 0;
 }
 
+.caution-box {
+  background-color: #dc143c;
+  color: white;
+  margin: 0 0 5vh 0;
+}
+
 .box-header {
   background: rgb(255, 148, 202);
   color: white;
