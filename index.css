@@ -6,38 +6,15 @@ body {
   word-break: break-all;
 }
 
-.trapmafia_img {
-  width: 25vw;
-}
-
-.hypervillage_img {
-  width: 15vw;
-}
-
-.gekikawa {
-  width: 20vw;
-}
-
 .box {
   background-color:#f7f4f4;
-  margin: 0 0 5vh 0;
-}
-
-.caution-box {
-  background-color: #dc143c;
-  color: white;
-  margin: 0 0 5vh 0;
+  margin: 0 0 2vh 0;
+  padding: 0 0 1vh 0;
 }
 
 .box-header {
   background: rgb(255, 148, 202);
   color: white;
-}
-
-.header {
-  background-color:#ffffff;
-  background-image: url('./imgs/aine.jpg');
-  background-size:80px 80px;
 }
 
 .glitchmoly {
